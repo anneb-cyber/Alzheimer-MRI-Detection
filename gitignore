@@ -1,0 +1,40 @@
+# Dataset
+src/data/
+src/dataset/
+src/*.csv
+src/*.json
+src/*.npy
+src/*.npz
+src/*.tfrecord
+
+# Modèles sauvegardés
+*.h5
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.pb
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Environnements virtuels
+.env
+.venv
+env/
+venv/
+
+# Logs et résultats
+logs/
+runs/
+*.log
